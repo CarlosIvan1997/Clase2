@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">xd</string>
+
+    <string name="login_username">Usuario:</string>
+
+    <string name="register_save">Guardar</string>
+
+</resources>
